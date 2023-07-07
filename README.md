@@ -49,9 +49,9 @@ Menambahkan fungsi unggah gambar pada tambah artikel yang sudah kita buat.
 
 * Ujicoba file upload dengan mengakses menu tambah artikel.
 
-![Gambar 1](ss/1.png)
+![Gambar 1](ss/11.png)
 
 
 * Maka hasilnya akan seperti berikut.
 
-![Gambar 2](ss/2.png)
+![Gambar 2](ss/22.png)
